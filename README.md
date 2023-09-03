@@ -1,15 +1,19 @@
-### Hi there 👋
+# Hi,there.  I am GG gue 👋
+<table style="border-collapse: collapse; border: none;">
+     <tr>
+        <td>
+        I am GG gue,a student of Lanzhou University. I like to learn efficiently, so I am usually used to learning by myself.I often watch great bloggers share their computer science skills. Let's get ahead
+        </td>
+        <td>
+        <img src="analyst.gif" alt="Analyst">
+        </td>
+    </tr>
+</table>
+The following is my learning route(not the final version),after learning some important knowledge I will share my learning experience.
 
-<!--
-**kiteboy1111/kiteboy1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Type   | Topic                                | Start          | End           | Done  |
+|--------|--------------------------------------|----------------|---------------|-------|
+| C      | C语言程序设计（B站鹏哥教学）           | September 2022 | December 2022 | ✅ |
+| C++    | C++Primer Plus                       | September 2023 |  ..            | ⬜️🕝 |
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅⬜️📅🕝

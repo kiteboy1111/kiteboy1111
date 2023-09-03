@@ -14,6 +14,9 @@ The following is my learning route(not the final version),after learning some im
 | Type   | Topic                                | Start          | End           | Done  |
 |--------|--------------------------------------|----------------|---------------|-------|
 | C      | C语言程序设计（B站鹏哥教学）           | September 2022 | December 2022 | ✅ |
-| C++    | C++Primer Plus                       | September 2023 |  ..            | ⬜️🕝 |
+| C++    | C++Primer Plus                       | September 2023 |  ......       | ⬜️🕝 |
+| Data Structure | 数据结构与算法C++ |            |  ......       | ......      | ⬜️📅 |    
+
+
 
 ✅⬜️📅🕝

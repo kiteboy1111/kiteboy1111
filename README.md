@@ -9,11 +9,11 @@
 <details>
 <summary>My study plan </summary>
 
-| Type       | Content              | start      | end  |
-| :--------- | -------------------- | ---------- | ---- |
-| Basic tool | MIT-Missing-Semester | May 2,2024 | ...  |
-| Linux      | 韩顺平Linux（B站）   | May 1,2024 | ...  |
-|            |                      |            |      |
+| Type       | Content            | start      | end  |
+| :--------- | ------------------ | ---------- | ---- |
+| Basic tool | Vim                | May 2,2024 | ...  |
+| Linux      | 韩顺平Linux（B站） | May 1,2024 | ...  |
+|            |                    |            |      |
 
 </details>
 
